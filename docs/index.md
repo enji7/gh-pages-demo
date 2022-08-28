@@ -19,8 +19,4 @@ console.log("details here");
 
 </details>
 
-Relative link to an internal page: 
-
-[Link1](/linkme.html)
-[Link2](/linkme.md)
-[Link3](/linkme)
+Relative link to an internal page: [Link2](/linkme.md)
