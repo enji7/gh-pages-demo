@@ -4,13 +4,10 @@ title: Github Pages Demo (Index)
 
 # Table of Contents
 
-Try:
+Works with kramdown, but not with GFM:
 
 * TOC
 {:toc}
-
-Try:
-
 
 # Code Blocks
 
@@ -24,25 +21,21 @@ console.log("code block");
 console.log("code block");
 ```
 
-Code block with syntax highlighting inside "details" tag:
+Code block inside "details" tag. Works with GFM, but not with kramdown:
 
 <details>
 <summary>summary here</summary>
- 
-~~~js
-console.log("details here");
-~~~
 
-```js
-console.log("code block");
+``` js
+console.log("details here");
 ```
 
 ~~~ js
-console.log("code block");
+console.log("details here");
 ~~~
 
 ~~~
-console.log("code block");
+console.log("details here, without highlighting");
 ~~~
 
 </details>
