@@ -1,3 +1,7 @@
+---
+title: Github Pages Demo
+---
+
 Code block with syntax highlighting:
 
 ~~~js
