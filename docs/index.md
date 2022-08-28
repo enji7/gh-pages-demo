@@ -20,6 +20,10 @@ Code block with syntax highlighting:
 console.log("code block");
 ~~~
 
+```js
+console.log("code block");
+```
+
 Code block with syntax highlighting inside "details" tag:
 
 <details>
@@ -29,6 +33,10 @@ Code block with syntax highlighting inside "details" tag:
 console.log("details here");
 ~~~
 
+```js
+console.log("code block");
+```
+ 
 </details>
 
 # Links
