@@ -1,5 +1,6 @@
-# Demo for Github Pages (Headline)
-
+---
+title: Demo for Github Pages
+---
 Code block with syntax highlighting:
 
 ~~~js
