@@ -1,10 +1,18 @@
 # Demo for Github Pages (Headline)
 
+Code block with syntax highlighting:
+
+~~~js
+console.log("code block");
+~~~
+
+Code block with syntax highlighting inside "details" tag:
+
 <details>
- <summary>Details Summary</summary>
+<summary>summary here</summary>
  
- ´´´
- console.log("details here");
- ´´´
- 
-</details>
+~~~js
+console.log("details here");
+~~~
+
+</details> 
