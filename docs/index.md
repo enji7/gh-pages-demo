@@ -2,6 +2,18 @@
 title: Github Pages Demo (Index)
 ---
 
+# Table of Contents
+
+Try:
+
+* TOC
+{:toc}
+
+Try:
+
+
+# Code Blocks
+
 Code block with syntax highlighting:
 
 ~~~js
@@ -18,5 +30,7 @@ console.log("details here");
 ~~~
 
 </details>
+
+# Links
 
 Relative link to an internal page: [Link2](/linkme.md)
