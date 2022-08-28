@@ -1,1 +1,4 @@
 theme: minima
+# kramdown is the default:
+# markdown: kramdown
+markdown: GFM
