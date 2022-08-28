@@ -36,7 +36,15 @@ console.log("details here");
 ```js
 console.log("code block");
 ```
- 
+
+~~~ js
+console.log("code block");
+~~~
+
+~~~
+console.log("code block");
+~~~
+
 </details>
 
 # Links
