@@ -17,4 +17,10 @@ Code block with syntax highlighting inside "details" tag:
 console.log("details here");
 ~~~
 
-</details> 
+</details>
+
+Relative link to an internal page: 
+
+[Link1](/linkme.html)
+[Link2](/linkme.md)
+[Link3](/linkme)
