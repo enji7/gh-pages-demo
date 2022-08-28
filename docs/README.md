@@ -1,8 +1,10 @@
-# Demo for Github Pages
+# Demo for Github Pages (Headline)
 
 <details>
  <summary>Details Summary</summary>
- ´´´js
- console.log("details here")
+ 
  ´´´
+ console.log("details here");
+ ´´´
+ 
 </details>
